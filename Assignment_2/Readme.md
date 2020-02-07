@@ -1,7 +1,7 @@
 # Open Frameworks 2020
 ## Achievement on Solo Learn 
 
-![Picture](profilepic.jpg)
+![Picture](Bildschirmfoto 2020-02-04 um 10.56.52.png)
 
 ### Description 
 
