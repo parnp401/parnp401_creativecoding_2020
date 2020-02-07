@@ -2,7 +2,7 @@
 
 ## C++ Achievement on Solo Learn ##
 
-![Picture](Bildschirmfoto 2020-02-04 um 10.56.52.png)
+![GIF](openframeworks.gif)
 
 ## Description ##
 
