@@ -36,19 +36,21 @@ With the help of a sophisticated data source, the project is able to not only vi
 
 ![Picture](Project2_Sketch.JPG)
 
-## Project 3: ##
+## Project 3: Photo Booth ##
 
 ### 1. Who is the user? ###
 
-The target group of this project are students between 17 and 28, who don't know anything about synaesthesia. Hopefully, some will realize that they actually have synaesthesia, which happened to me too. 
+This project is dedicated to students who spend time on D12 and are looking for a study break. The OpenFramework Photobooth is the perfect way to take photos and create creative collages. 
 
 ### 2. What do you want them to experience? ###
 
-I want them to experience the generative effects of synaesthesia in an interactive way. Users will be able to interact using sound, words and numbers. The key learning should be: Synaesthesia is different for every person who has it and even for 
+I want them to experience a feeling of connectedness and fun while interacting with the prijection. It involves a webcam or another camera and will turn photos instantly into a unique collection of memories that they can share with friends. 
 
 ### 3. How will your translation achieve this? ###
 
-Users can affect the outcome by adding sound or typing letters or words. They can also change the view, which allows them to look inside the brain of a person with synaesthesia. 
+Webcams can take as many pictures as posible in a short amount of time and can collect them directly on the screen in a random order, maybe even with filters or random visual effects. A version with short videos is also possible. 
+
+![Picture](Project3_Sketch.JPG)
 
 ## Weekly Project ##
 
