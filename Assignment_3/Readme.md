@@ -18,7 +18,7 @@ I want them to experience the generative effects of synaesthesia in an interacti
 
 Users can affect the outcome by adding sound or typing letters or words. They can also change the view, which allows them to look inside the brain of a person with synaesthesia. 
 
-![Picture](Project1_Sketch.jpg)
+![Picture](Project1_Sketch.JPG)
 
 ## Project 2:  ##
 
