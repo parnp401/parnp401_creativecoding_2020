@@ -54,5 +54,5 @@ Webcams can take as many pictures as posible in a short amount of time and can c
 
 ## Weekly Project ##
 
-![Picture](Openframeworks_3D.png)
+Team 2: ofDrawEllipse() ofDrawLine() ofDrawRectangle() ofGetFrameNum()
 
