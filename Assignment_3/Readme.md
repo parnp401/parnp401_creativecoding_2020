@@ -55,11 +55,11 @@ Webcams can take as many pictures as posible in a short amount of time and can c
 ## Weekly Project ##
 
 ### Team 2: ### 
-## ofDrawEllipse() ##
+## ofDrawEllipse(20,20,30,50) ##
 The function draws an Ellipse.
-## ofDrawLine() ##
+## ofDrawLine(10,20,50,80) ##
 The function draws a line between two defined points (x and y)
-## ofDrawRectangle() ##
+## ofDrawRectangle(100,200,120,100) ##
 The function draws a rectangle with lines, using x,y and z indicators.
 ## ofGetFrameNum() ##
 The function gets the defined frame number.
