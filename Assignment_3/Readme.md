@@ -64,3 +64,7 @@ The function draws a rectangle with lines, using x,y and z indicators.
 ## ofGetFrameNum() ##
 The function gets the defined frame number.
 
+## Objects ##
+
+![Picture](Project3_Sketch.JPG)
+
