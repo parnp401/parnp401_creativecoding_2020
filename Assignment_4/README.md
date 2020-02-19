@@ -10,7 +10,7 @@ This is a sad face.
 ## 3. Surprise ##
 The surprising face is showing an open mouth. 
 
-
+![Picture](Smiley_Surprise.PNG)
 
 void ofApp::draw(){
     ofBackground(179, 225, 245);
@@ -30,5 +30,6 @@ void ofApp::draw(){
     ofSetColor(0,0,0);
     ofFill();
     ofDrawCircle(500,520,100);
+    
 ## 4. Anger ##
 Anger is expressed by adding eyebrows and changing color.
