@@ -67,4 +67,5 @@ The function gets the defined frame number.
 ## Objects ##
 
 ![Picture](Circle_OF.png)
+![Picture](Rectangle_OF.png)
 
