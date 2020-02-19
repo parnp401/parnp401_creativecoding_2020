@@ -10,7 +10,7 @@ This is a sad face.
 ## 3. Surprise ##
 The surprising face is showing an open mouth. 
 
-![Picture](Smiley_Surprise.PNG)
+![Picture](Smiley_Surprise.png)
 
 void ofApp::draw(){
     ofBackground(179, 225, 245);
