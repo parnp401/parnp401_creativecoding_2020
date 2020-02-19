@@ -2,9 +2,33 @@
 
 ## 1. Happiness ##
 This is a smiling face. 
+
+
+    
 ## 2. Sadness
 This is a sad face.
 ## 3. Surprise ##
 The surprising face is showing an open mouth. 
+
+
+
+void ofApp::draw(){
+    ofBackground(179, 225, 245);
+
+    ofSetColor(239,208,82);
+    ofFill();
+    ofDrawCircle(500,400,300);
+    
+    ofSetColor(0,0,0);
+    ofFill();
+    ofDrawCircle(400,300,20);
+    
+    ofSetColor(0,0,0);
+    ofFill();
+    ofDrawCircle(600,300,20);
+    
+    ofSetColor(0,0,0);
+    ofFill();
+    ofDrawCircle(500,520,100);
 ## 4. Anger ##
 Anger is expressed by adding eyebrows and changing color.
