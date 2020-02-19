@@ -25,7 +25,10 @@ void ofApp::draw(){
 
     ofSetColor(0,0,0);
     ofFill();
-    ofDrawRectangle(450,600,100,20);
+    ofDrawCurve(500,400,400,600,600,600,1500,1500);
+       
+    
+}
 
 ## 3. Surprise ##
 The surprising face is showing an open mouth. 
