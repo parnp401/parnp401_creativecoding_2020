@@ -66,5 +66,5 @@ The function gets the defined frame number.
 
 ## Objects ##
 
-![Picture](Project3_Sketch.JPG)
+![Picture](Bildschirmfoto 2020-02-18 um 22.53.08.png)
 
