@@ -6,6 +6,8 @@ This is a smiling face.
 ## 2. Sadness
 This is a sad face.
 
+![Picture](Smiley_Sad.png)
+
 void ofApp::draw(){
     ofBackground(179, 225, 245);
 
