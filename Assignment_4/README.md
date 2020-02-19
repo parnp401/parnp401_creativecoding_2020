@@ -33,3 +33,24 @@ void ofApp::draw(){
     
 ## 4. Anger ##
 Anger is expressed by adding eyebrows and changing color.
+
+![Picture](Smiley_Angry.png)
+
+void ofApp::draw(){
+    ofBackground(179, 225, 245);
+
+    ofSetColor(242,81,32);
+    ofFill();
+    ofDrawCircle(500,400,300);
+    
+    ofSetColor(0,0,0);
+    ofFill();
+    ofDrawCircle(400,300,20);
+    
+    ofSetColor(0,0,0);
+    ofFill();
+    ofDrawCircle(600,300,20);
+    
+    ofSetColor(0,0,0);
+    ofFill();
+    ofDrawRectangle(450,600,100,20);
