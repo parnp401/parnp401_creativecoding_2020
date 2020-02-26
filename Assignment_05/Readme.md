@@ -3,7 +3,7 @@
 Based on the smileys of the previous assignment, I am now adding polygons and sounds. You can watch the final version on Youtube.
 
 ## Smiley
-This is a sad face.
+The sad face from the previous assignment appears together with a polygone star that goes from one side to the other. The clown honk sound makes it look as if the smiley had a crazy idea or is suprised about something.
 
 ![Picture](Polygonface.png)
 
