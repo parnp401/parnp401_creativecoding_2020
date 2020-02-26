@@ -29,6 +29,6 @@ void ofApp::draw(){
     
 }
 
-##Sound##
+## Sound ##
 
 I found the sound in the official Youtube Library and it's called: Clown Horn. It's royalty free for Youtube videos.
