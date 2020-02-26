@@ -2,7 +2,7 @@
 
 Based on the smileys of the previous assignment, I am now adding polygons and sounds. You can watch the final version on Youtube.
 
-## 2. Sadness
+## Smiley
 This is a sad face.
 
 ![Picture](Smiley_Sad.png)
