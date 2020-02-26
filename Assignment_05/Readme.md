@@ -5,7 +5,7 @@ Based on the smileys of the previous assignment, I am now adding polygons and so
 ## Smiley
 This is a sad face.
 
-![Picture](Smiley_Sad.png)
+![Picture](Polygonface.png)
 
 void ofApp::draw(){
     ofBackground(179, 225, 245);
