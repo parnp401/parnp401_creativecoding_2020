@@ -1,11 +1,11 @@
 # parnp401_creativecoding_2020: Sound & Polygons
 
-Based on the smileys of the previous assignment, I am now working on polygons and sounds. You can watch the final version on Youtube.
+Based on the smileys of the previous assignment, I am now adding polygons and sounds. You can watch the final version on Youtube.
 
 ## 2. Sadness
 This is a sad face.
 
-![Picture](Smiley_Sad2.png)
+![Picture](Smiley_Sad.png)
 
 void ofApp::draw(){
     ofBackground(179, 225, 245);
